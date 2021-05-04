@@ -104,7 +104,3 @@ for x in f:
 # print(tree.root.child[1])
 # print(tree.root.child[1].child[0])
 print(tree)
-try:
-    pass
-except:
-    print("asd")
